@@ -1,6 +1,16 @@
-<img width="100%" src="./assets/logo.jpg" alt="logo of openai-toolbox repository">
+<p align="center">
+  <br>
+  <img width="300" src="./assets/logo.png" alt="logo of openai-toolbox repository">
+  <br>
+  <br>
+</p>
 
-<br>
+<h2 align='center'>openai-toolbox</h2>
+
+<p align='center'>
+一个收集各种 OpenAI 工具和资源的仓库，包括开源工具、库、模型、数据集等。该仓库旨在帮助开发者更方便地使用 OpenAI 的技术和服务，提高开发效率和产品质量。
+</p>
+<br><br>
 
 ## 目录
 
