@@ -20,7 +20,7 @@
 <br>
 
 ### OpenAI 官方资源
-- [chatgpt-retrieval-plugin](https://github.com/openai/chatgpt-retrieval-plugin) - OpenAI 开源的资料托管的插件，通过自主托管材料，并开放接口给ChatGPT, 构建私有聊天场景。
+- [chatgpt-retrieval-plugin](https://github.com/openai/chatgpt-retrieval-plugin) - OpenAI 开源的资料托管的插件，构建私有聊天场景。
 
 <br>
 
