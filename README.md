@@ -26,6 +26,7 @@
 - [cursor](https://www.cursor.so/) - 专为使用 AI 编程而构建的编辑器，帮助编写、编辑和讨论您的代码
 - [openai-translator](https://github.com/yetone/openai-translator) - 基于 ChatGPT API 的划词翻译浏览器插件和跨平台桌面端应用
 - [gpt-commit](https://github.com/zurawiki/gptcommit) - 一个可以帮助你生成Commit Message的工具
+- [ChatGPT-CodeReview](https://github.com/anc95/ChatGPT-CodeReview) - 由 ChatGPT 提供支持的代码审查机器人
 
 ### 提示词工程
 
