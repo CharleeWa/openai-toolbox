@@ -23,6 +23,12 @@
 
 ### 工具应用
 
-- [cursor](https://github.com/getcursor/cursor) - 专为使用 AI 编程而构建的编辑器，帮助编写、编辑和讨论您的代码
+- [cursor](https://www.cursor.so/) - 专为使用 AI 编程而构建的编辑器，帮助编写、编辑和讨论您的代码
 - [openai-translator](https://github.com/yetone/openai-translator) - 基于 ChatGPT API 的划词翻译浏览器插件和跨平台桌面端应用
 - [gpt-commit](https://github.com/zurawiki/gptcommit) - 一个可以帮助你生成Commit Message的工具
+
+### 提示词工程
+
+- [prompthero](https://prompthero.com/) - Prompts 网站，适用于 ChatGPT、Midjourney、Stable Diffusion
+- [awesome-chatgpt-prompts](https://prompts.chat/) - 用于 ChatGPT 模型的提示示例, 获得更好的交流体验
+- [awesome-chatgpt-prompts-zh](https://chatguide.plexpt.com/) - 用于 ChatGPT 模型的提示示例中文指南
