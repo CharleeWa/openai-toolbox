@@ -3,7 +3,7 @@
 
 📦️ 一个收集各种 OpenAI 工具和资源的仓库，包括开源工具、库、模型、数据集等。帮助开发者更方便地使用 OpenAI 的技术和服务。
 
-<br><br>
+<br>
 
 ## 目录
 
@@ -15,6 +15,11 @@
 
 ### OpenAI 官方资源
 - [chatgpt-retrieval-plugin](https://github.com/openai/chatgpt-retrieval-plugin) - OpenAI 开源的资料托管的插件，构建私有聊天场景。
+
+<br>
+
+### OpenAI 衍生应用
+- [ChatGPT-Next-Web](https://github.com/Yidadaa/ChatGPT-Next-Web) - 一键拥有你自己的 ChatGPT 网页服务，拥有精美的界面。
 
 <br>
 
