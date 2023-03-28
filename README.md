@@ -14,12 +14,14 @@
 
 
 ### OpenAI 官方资源
+
 - [chatgpt-retrieval-plugin](https://github.com/openai/chatgpt-retrieval-plugin) - OpenAI 开源的资料托管的插件，构建私有聊天场景。
 
 <br>
 
 ### OpenAI 衍生应用
 - [ChatGPT-Next-Web](https://github.com/Yidadaa/ChatGPT-Next-Web) - 一键拥有你自己的 ChatGPT 网页服务，拥有精美的界面。
+- [Bot-Studio](https://github.com/Privoce/Bot-Studio) - OpenAI 的模型调试工具，带有聊天 UI 的模型仪表板。
 
 <br>
 
@@ -30,6 +32,7 @@
 - [gpt-commit](https://github.com/zurawiki/gptcommit) - 一个可以帮助你生成Commit Message的工具。
 - [ChatGPT-CodeReview](https://github.com/anc95/ChatGPT-CodeReview) - 由 ChatGPT 提供支持的代码审查机器人。
 - [CopilotHub](https://app.copilothub.co/) - 基于 ChatGPT 创建个人的知识库平台。
+- [ChatPDF](https://www.chatpdf.com/) - 一个学习神器，上传PDF文件后，可以对它提问任何关于这份PDF的问题。
 
 <br>
 
@@ -38,3 +41,4 @@
 - [prompthero](https://prompthero.com/) - Prompts 网站，适用于 ChatGPT、Midjourney、Stable Diffusion。
 - [awesome-chatgpt-prompts](https://prompts.chat/) - 用于 ChatGPT 模型的提示示例, 获得更好的交流体验。
 - [awesome-chatgpt-prompts-zh](https://chatguide.plexpt.com/) - 用于 ChatGPT 模型的提示示例中文指南。
+- [ChatGPT Shortcut](https://newzone.top/chatgpt/) - 让生产力加倍的 ChatGPT 快捷指令
