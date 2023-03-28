@@ -1,15 +1,8 @@
-<p align="center">
-  <br>
-  <img width="300" src="./assets/logo.png" alt="logo of openai-toolbox repository">
-  <br>
-  <br>
-</p>
 
-<h2 align='center'>openai-toolbox</h2>
+## openai-toolbox
 
-<p align='center'>
-一个收集各种 OpenAI 工具和资源的仓库，包括开源工具、库、模型、数据集等。该仓库旨在帮助开发者更方便地使用 OpenAI 的技术和服务，提高开发效率和产品质量。
-</p>
+📦️ 一个收集各种 OpenAI 工具和资源的仓库，包括开源工具、库、模型、数据集等。帮助开发者更方便地使用 OpenAI 的技术和服务。
+
 <br><br>
 
 ## 目录
@@ -17,7 +10,8 @@
 <img src="https://user-images.githubusercontent.com/11247099/112722104-819b8a80-8f42-11eb-82f5-dfc2dd5d8a77.png" height="32" />
 
 使用左上角的 “目录” 菜单来浏览列表。
-<br>
+<br><br>
+
 
 ### OpenAI 官方资源
 - [chatgpt-retrieval-plugin](https://github.com/openai/chatgpt-retrieval-plugin) - OpenAI 开源的资料托管的插件，构建私有聊天场景。
