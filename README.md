@@ -33,6 +33,9 @@
 - [ChatGPT-CodeReview](https://github.com/anc95/ChatGPT-CodeReview) - 由 ChatGPT 提供支持的代码审查机器人。
 - [CopilotHub](https://app.copilothub.co/) - 基于 ChatGPT 创建个人的知识库平台。
 - [ChatPDF](https://www.chatpdf.com/) - 一个学习神器，上传PDF文件后，可以对它提问任何关于这份PDF的问题。
+- [ChatPaper](https://github.com/kaixindelele/ChatPaper) - 利用chatgpt进行论文总结+润色+审稿+审稿回复。
+- [ChatDoc](https://chatdoc.com/) - 基于 ChatGPT 的文件阅读助手，可以 从 PDF 中快速提取、定位和汇总信息。
+
 
 <br>
 
