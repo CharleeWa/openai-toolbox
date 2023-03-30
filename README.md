@@ -46,4 +46,11 @@
 - [awesome-chatgpt-prompts](https://prompts.chat/) - 用于 ChatGPT 模型的提示示例, 获得更好的交流体验。
 - [awesome-chatgpt-prompts-zh](https://chatguide.plexpt.com/) - 用于 ChatGPT 模型的提示示例中文指南。
 - [ChatGPT Shortcut](https://newzone.top/chatgpt/) - 让生产力加倍的 ChatGPT 快捷指令
-- [OpenPrompt](https://openprompt.co/) - 创建、分享和使用他人的Prompt
+- [OpenPrompt](https://openprompt.co/) - 创建、分享和使用他人的Prompt。
+
+<br>
+
+### AI画图
+- [Scribble Diffusion](https://scribblediffusion.com/) - 使用 AI 将粗略的草图变成精致的图像。
+- [DALL·E 2](https://labs.openai.com/) - OpenAI 官方 DALL·E 2模型，可以根据自然语言的描述创建逼真的图像和艺术作品。
+
