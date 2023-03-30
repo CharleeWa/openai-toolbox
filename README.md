@@ -19,7 +19,7 @@
 
 <br>
 
-### OpenAI 衍生应用
+### ChatGPT 衍生应用
 - [ChatGPT-Next-Web](https://github.com/Yidadaa/ChatGPT-Next-Web) - 一键拥有你自己的 ChatGPT 网页服务，拥有精美的界面。
 - [Bot-Studio](https://github.com/Privoce/Bot-Studio) - OpenAI 的模型调试工具，带有聊天 UI 的模型仪表板。
 - [MacGPT](https://www.macgpt.com/) - ChatGPT 桌面客户端，支持API key 和 Web UI 两种模式随意切换。
