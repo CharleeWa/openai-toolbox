@@ -22,6 +22,7 @@
 ### OpenAI 衍生应用
 - [ChatGPT-Next-Web](https://github.com/Yidadaa/ChatGPT-Next-Web) - 一键拥有你自己的 ChatGPT 网页服务，拥有精美的界面。
 - [Bot-Studio](https://github.com/Privoce/Bot-Studio) - OpenAI 的模型调试工具，带有聊天 UI 的模型仪表板。
+- [MacGPT](https://www.macgpt.com/) - ChatGPT 桌面客户端，支持API key 和 Web UI 两种模式随意切换。
 
 <br>
 
@@ -35,7 +36,7 @@
 - [ChatPDF](https://www.chatpdf.com/) - 一个学习神器，上传PDF文件后，可以对它提问任何关于这份PDF的问题。
 - [ChatPaper](https://github.com/kaixindelele/ChatPaper) - 利用chatgpt进行论文总结+润色+审稿+审稿回复。
 - [ChatDoc](https://chatdoc.com/) - 基于 ChatGPT 的文件阅读助手，可以 从 PDF 中快速提取、定位和汇总信息。
-- [PandaGPT](https://www.pandagpt.io/) - 另一个工具，上传PDF文件后，可以对它提问任何关于这份PDF的问题，由 ChatGPT 提供技术支持。
+- [PandaGPT](https://www.pandagpt.io/) - 另一个工具，上传PDF文件后，可以对它提问任何关于这份PDF的问题。
 
 <br>
 
