@@ -46,3 +46,4 @@
 - [awesome-chatgpt-prompts](https://prompts.chat/) - 用于 ChatGPT 模型的提示示例, 获得更好的交流体验。
 - [awesome-chatgpt-prompts-zh](https://chatguide.plexpt.com/) - 用于 ChatGPT 模型的提示示例中文指南。
 - [ChatGPT Shortcut](https://newzone.top/chatgpt/) - 让生产力加倍的 ChatGPT 快捷指令
+- [OpenPrompt](https://openprompt.co/) - 创建、分享和使用他人的Prompt
