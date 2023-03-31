@@ -37,6 +37,7 @@
 - [ChatPaper](https://github.com/kaixindelele/ChatPaper) - 利用chatgpt进行论文总结+润色+审稿+审稿回复。
 - [ChatDoc](https://chatdoc.com/) - 基于 ChatGPT 的文件阅读助手，可以 从 PDF 中快速提取、定位和汇总信息。
 - [PandaGPT](https://www.pandagpt.io/) - 另一个工具，上传PDF文件后，可以对它提问任何关于这份PDF的问题。
+- [shell_gpt](https://github.com/TheR1D/shell_gpt) - 由 ChatGPT 提供支持的命令行生产力工具，将帮助您更快、更高效地完成任务。
 
 <br>
 
