@@ -55,3 +55,9 @@
 - [Scribble Diffusion](https://scribblediffusion.com/) - 使用 AI 将粗略的草图变成精致的图像。
 - [DALL·E 2](https://labs.openai.com/) - OpenAI 官方 DALL·E 2模型，可以根据自然语言的描述创建逼真的图像和艺术作品。
 
+<br>
+
+### 模型训练
+- [text2vec](https://github.com/shibing624/text2vec) - 文本向量表征工具，把文本转化为向量矩阵，实现相似检索，开箱即用。
+
+<br>
