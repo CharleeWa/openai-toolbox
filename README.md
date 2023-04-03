@@ -17,14 +17,12 @@
 
 - [chatgpt-retrieval-plugin](https://github.com/openai/chatgpt-retrieval-plugin) - OpenAI 开源的资料托管的插件，构建私有聊天场景。
 
-<br>
 
 ### ChatGPT 衍生应用
 - [ChatGPT-Next-Web](https://github.com/Yidadaa/ChatGPT-Next-Web) - 一键拥有你自己的 ChatGPT 网页服务，拥有精美的界面。
 - [Bot-Studio](https://github.com/Privoce/Bot-Studio) - OpenAI 的模型调试工具，带有聊天 UI 的模型仪表板。
 - [MacGPT](https://www.macgpt.com/) - ChatGPT 桌面客户端，支持API key 和 Web UI 两种模式随意切换。
 
-<br>
 
 ### 工具&产品
 
@@ -41,7 +39,6 @@
 - [gptcli](https://www.gptcli.com/) - 多功能 ChatGPT 命令行工具，内置 Commit、Command、Translate，构建自己的 AI 命令行工具。
 - [ai-code-translator](https://github.com/feseeker/ai-code-translator) - 使用 AI 将代码从一种语言翻译成另一种语言。
 
-<br>
 
 ### 提示词工程
 
@@ -52,15 +49,15 @@
 - [OpenPrompt](https://openprompt.co/) - 创建、分享和使用他人的Prompt。
 - [Learning-Prompt](https://learningprompt.wiki/) - 免费 Prompt Engineering 教程。
 
-<br>
 
 ### AI画图
 - [Scribble Diffusion](https://scribblediffusion.com/) - 使用 AI 将粗略的草图变成精致的图像。
 - [DALL·E 2](https://labs.openai.com/) - OpenAI 官方 DALL·E 2模型，可以根据自然语言的描述创建逼真的图像和艺术作品。
 
-<br>
 
 ### 模型训练
 - [text2vec](https://github.com/shibing624/text2vec) - 文本向量表征工具，把文本转化为向量矩阵，实现相似检索，开箱即用。
 
-<br>
+
+### ChatGPT 插件
+- [ChatGPT-Plugins-Collection](https://github.com/logankilpatrick/ChatGPT-Plugins-Collection) - 非官方 ChatGPT 多种编程语言的插件示例。
