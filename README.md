@@ -36,6 +36,7 @@
 - [gptcli](https://www.gptcli.com/) - 多功能 ChatGPT 命令行工具，内置 Commit、Command、Translate，构建自己的 AI 命令行工具。
 - [ai-code-translator](https://github.com/feseeker/ai-code-translator) - 使用 AI 将代码从一种语言翻译成另一种语言。
 - [MacGPT](https://www.macgpt.com/) - ChatGPT 桌面客户端，支持API key 和 Web UI 两种模式随意切换。
+- [ChatGPT-Next-Web](https://github.com/Yidadaa/ChatGPT-Next-Web) - 一键拥有你自己的 ChatGPT 网页服务，拥有精美的界面。
 
 ### 提示词工程
 
@@ -45,7 +46,7 @@
 - [ChatGPT Shortcut](https://newzone.top/chatgpt/) - 让生产力加倍的 ChatGPT 快捷指令
 - [OpenPrompt](https://openprompt.co/) - 创建、分享和使用他人的Prompt。
 - [Learning-Prompt](https://learningprompt.wiki/) - 免费 Prompt Engineering 教程。
-- [ChatGPT-Next-Web](https://github.com/Yidadaa/ChatGPT-Next-Web) - 一键拥有你自己的 ChatGPT 网页服务，拥有精美的界面。
+- [Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) - 提示工程的指南、论文、讲座、笔记本和资源。
 
 ### Ai Art 绘图
 - [Scribble Diffusion](https://scribblediffusion.com/) - 使用 AI 将粗略的草图变成精致的图像。
