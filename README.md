@@ -46,7 +46,7 @@
 - [ChatGPT Shortcut](https://newzone.top/chatgpt/) - 让生产力加倍的 ChatGPT 快捷指令
 - [OpenPrompt](https://openprompt.co/) - 创建、分享和使用他人的Prompt。
 - [Learning-Prompt](https://learningprompt.wiki/) - 免费 Prompt Engineering 教程。
-- [Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) - 提示工程的指南、论文、讲座、笔记本和资源。
+- [Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) - 提示词工程指南，帮助行业相关人员了解提示词工程。
 
 ### Ai Art 绘图
 - [Scribble Diffusion](https://scribblediffusion.com/) - 使用 AI 将粗略的草图变成精致的图像。
