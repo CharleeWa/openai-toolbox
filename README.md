@@ -15,11 +15,11 @@
 
 ### OpenAI 官方链接
 
-- [overview](https://platform.openai.com/overview) - OpenAI 开发者预览页
-- [tokenizer](https://platform.openai.com/tokenizer) - GPT 系列模型使用的标记文本分词器
-- [pricing](https://openai.com/pricing) - OpenAI 所有模型收费价格预览
-- [usage](https://platform.openai.com/account/usage) - 个人账户 API 用量统计
-- [openai-cookbook](https://github.com/openai/openai-cookbook) - 使用 OpenAI API 的示例和指南
+- [overview](https://platform.openai.com/overview) - OpenAI 开发者预览页。
+- [tokenizer](https://platform.openai.com/tokenizer) - GPT 系列模型使用的标记文本分词器。
+- [pricing](https://openai.com/pricing) - OpenAI 所有模型收费价格预览。
+- [usage](https://platform.openai.com/account/usage) - 个人账户 API 用量统计。
+- [openai-cookbook](https://github.com/openai/openai-cookbook) - 使用 OpenAI API 的示例和指南。
 
 ### GPT系列 - 工具&产品
 
@@ -37,13 +37,14 @@
 - [ai-code-translator](https://github.com/feseeker/ai-code-translator) - 使用 AI 将代码从一种语言翻译成另一种语言。
 - [MacGPT](https://www.macgpt.com/) - ChatGPT 桌面客户端，支持API key 和 Web UI 两种模式随意切换。
 - [ChatGPT-Next-Web](https://github.com/Yidadaa/ChatGPT-Next-Web) - 一键拥有你自己的 ChatGPT 网页服务，拥有精美的界面。
+- [TypingMind](https://www.typingmind.com/) - 更好的 ChatGPT 用户界面, 支持网络搜索和实时数据。
 
 ### 提示词工程
 
 - [prompthero](https://prompthero.com/) - Prompts 网站，适用于 ChatGPT、Midjourney、Stable Diffusion。
 - [awesome-chatgpt-prompts](https://prompts.chat/) - 用于 ChatGPT 模型的提示示例, 获得更好的交流体验。
 - [awesome-chatgpt-prompts-zh](https://chatguide.plexpt.com/) - 用于 ChatGPT 模型的提示示例中文指南。
-- [ChatGPT Shortcut](https://newzone.top/chatgpt/) - 让生产力加倍的 ChatGPT 快捷指令
+- [ChatGPT Shortcut](https://newzone.top/chatgpt/) - 让生产力加倍的 ChatGPT 快捷指令。
 - [OpenPrompt](https://openprompt.co/) - 创建、分享和使用他人的Prompt。
 - [Learning-Prompt](https://learningprompt.wiki/) - 免费 Prompt Engineering 教程。
 - [Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) - 提示词工程指南，帮助行业相关人员了解提示词工程。
