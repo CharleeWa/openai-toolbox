@@ -35,6 +35,7 @@
 - [shell_gpt](https://github.com/TheR1D/shell_gpt) - 由 ChatGPT 提供支持的命令行生产力工具，将帮助您更快、更高效地完成任务。
 - [gptcli](https://www.gptcli.com/) - 多功能 ChatGPT 命令行工具，内置 Commit、Command、Translate，构建自己的 AI 命令行工具。
 - [ai-code-translator](https://github.com/feseeker/ai-code-translator) - 使用 AI 将代码从一种语言翻译成另一种语言。
+- [ai-code-doctor](https://github.com/CharleeWa/ai-code-doctor) - 让AI成为你的代码医生，快速解决错误信息。
 - [MacGPT](https://www.macgpt.com/) - ChatGPT 桌面客户端，支持API key 和 Web UI 两种模式随意切换。
 - [ChatGPT-Next-Web](https://github.com/Yidadaa/ChatGPT-Next-Web) - 一键拥有你自己的 ChatGPT 网页服务，拥有精美的界面。
 - [TypingMind](https://www.typingmind.com/) - 更好的 ChatGPT 用户界面, 支持网络搜索和实时数据。
