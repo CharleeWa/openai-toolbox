@@ -63,3 +63,11 @@
 ### ChatGPT 插件
 - [chatgpt-retrieval-plugin](https://github.com/openai/chatgpt-retrieval-plugin) - OpenAI 开源的资料托管的插件，构建私有聊天场景。
 - [ChatGPT-Plugins-Collection](https://github.com/logankilpatrick/ChatGPT-Plugins-Collection) - 非官方 ChatGPT 多种编程语言的插件示例。
+
+
+### 其它
+
+- [chatgpt-backup](https://github.com/abacaj/chatgpt-backup) - ChatGPT 的备份工具，可以备份聊天记录。
+
+
+OP: 有什么好的想法或者建议，欢迎在评论区留言，我会及时更新的。
