@@ -49,6 +49,7 @@
 - [OpenPrompt](https://openprompt.co/) - 创建、分享和使用他人的Prompt。
 - [Learning-Prompt](https://learningprompt.wiki/) - 免费 Prompt Engineering 教程。
 - [Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) - 提示词工程指南，帮助行业相关人员了解提示词工程。
+- [LearnPrompting](https://learnprompting.org/) - 免费的提示工程课程，学习如何同AI交流，并得到你要的结果。
 
 ### Ai Art 绘图
 - [Scribble Diffusion](https://scribblediffusion.com/) - 使用 AI 将粗略的草图变成精致的图像。
