@@ -69,6 +69,7 @@
 ### 其它
 
 - [chatgpt-backup](https://github.com/abacaj/chatgpt-backup) - ChatGPT 的备份工具，可以备份聊天记录。
+- [Auto-GPT](https://github.com/Torantulino/Auto-GPT) - 一个实验性的基于GPT-4驱动的应用程序，可能是世界上第一个AGI。
 
 
 OP: 有什么好的想法或者建议，欢迎在评论区留言，我会及时更新的。
