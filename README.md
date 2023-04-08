@@ -57,6 +57,7 @@
 - [DALL·E 2](https://labs.openai.com/) - OpenAI 官方 DALL·E 2模型，可以根据自然语言的描述创建逼真的图像和艺术作品。
 - [MochiDiffusion](https://github.com/godly-devotion/MochiDiffusion) - 在 Mac 上本地运行Stable Diffusion。
 - [ml-stable-diffusion](https://github.com/apple/ml-stable-diffusion) - 在Apple Silicon上使用 Core ML 运行 Stable Diffusion。
+- [Stable Diffusion web UI](https://github.com/AUTOMATIC1111/stable-diffusion-webui) - Stable Diffusion Web 界面。
 
 ### 模型训练
 - [Bot-Studio](https://github.com/Privoce/Bot-Studio) - OpenAI 的模型调试工具，带有聊天 UI 的模型仪表板。
