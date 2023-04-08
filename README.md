@@ -40,6 +40,7 @@
 - [ChatGPT-Next-Web](https://github.com/Yidadaa/ChatGPT-Next-Web) - 一键拥有你自己的 ChatGPT 网页服务，拥有精美的界面。
 - [TypingMind](https://www.typingmind.com/) - 更好的 ChatGPT 用户界面, 支持网络搜索和实时数据。
 - [chatbot-ui](https://github.com/mckaywrigley/chatbot-ui) - 一个开源的ChatGPT用户界面。
+- [openai-pr-reviewer](https://github.com/fluxninja/openai-pr-reviewer) - 一个基于 ChatGPT 的 GitHub PR Reviewer。
 
 ### 提示词工程
 
