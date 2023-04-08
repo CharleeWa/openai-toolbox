@@ -55,7 +55,8 @@
 ### Ai Art 绘图
 - [Scribble Diffusion](https://scribblediffusion.com/) - 使用 AI 将粗略的草图变成精致的图像。
 - [DALL·E 2](https://labs.openai.com/) - OpenAI 官方 DALL·E 2模型，可以根据自然语言的描述创建逼真的图像和艺术作品。
-
+- [MochiDiffusion](https://github.com/godly-devotion/MochiDiffusion) - 在 Mac 上本地运行Stable Diffusion。
+- [ml-stable-diffusion](https://github.com/apple/ml-stable-diffusion) - 在Apple Silicon上使用 Core ML 运行 Stable Diffusion。
 
 ### 模型训练
 - [Bot-Studio](https://github.com/Privoce/Bot-Studio) - OpenAI 的模型调试工具，带有聊天 UI 的模型仪表板。
