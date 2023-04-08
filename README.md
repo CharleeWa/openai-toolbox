@@ -39,6 +39,7 @@
 - [MacGPT](https://www.macgpt.com/) - ChatGPT 桌面客户端，支持API key 和 Web UI 两种模式随意切换。
 - [ChatGPT-Next-Web](https://github.com/Yidadaa/ChatGPT-Next-Web) - 一键拥有你自己的 ChatGPT 网页服务，拥有精美的界面。
 - [TypingMind](https://www.typingmind.com/) - 更好的 ChatGPT 用户界面, 支持网络搜索和实时数据。
+- [chatbot-ui](https://github.com/mckaywrigley/chatbot-ui) - 一个开源的ChatGPT用户界面。
 
 ### 提示词工程
 
@@ -71,6 +72,7 @@
 - [chatgpt-backup](https://github.com/abacaj/chatgpt-backup) - ChatGPT 的备份工具，可以备份聊天记录。
 - [Auto-GPT](https://github.com/Torantulino/Auto-GPT) - 一个实验性的基于GPT-4驱动的应用程序，可能是世界上第一个AGI。
 - [ChatGPT](https://github.com/acheong08/ChatGPT) - ChatGPT的逆向工程API。可扩展用于 Chatbot 等。
+- [window.ai](https://windowai.io/) - 在网页上使用您自己的 AI 模型。
 
 
 OP: 有什么好的想法或者建议，欢迎在评论区留言，我会及时更新的。
