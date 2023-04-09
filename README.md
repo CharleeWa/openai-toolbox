@@ -53,12 +53,13 @@
 - [Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) - 提示词工程指南，帮助行业相关人员了解提示词工程。
 - [LearnPrompting](https://learnprompting.org/) - 免费的提示工程课程，学习如何同AI交流，并得到你要的结果。
 
-### Ai Art 绘图
+### AI 绘图
 - [Scribble Diffusion](https://scribblediffusion.com/) - 使用 AI 将粗略的草图变成精致的图像。
 - [DALL·E 2](https://labs.openai.com/) - OpenAI 官方 DALL·E 2模型，可以根据自然语言的描述创建逼真的图像和艺术作品。
 - [MochiDiffusion](https://github.com/godly-devotion/MochiDiffusion) - 在 Mac 上本地运行Stable Diffusion。
 - [ml-stable-diffusion](https://github.com/apple/ml-stable-diffusion) - 在Apple Silicon上使用 Core ML 运行 Stable Diffusion。
 - [Stable Diffusion web UI](https://github.com/AUTOMATIC1111/stable-diffusion-webui) - Stable Diffusion Web 界面。
+- [MidJourney](https://www.midjourney.com/) - 一款搭载在discord上的AI绘画聊天机器人。
 
 ### 模型训练
 - [Bot-Studio](https://github.com/Privoce/Bot-Studio) - OpenAI 的模型调试工具，带有聊天 UI 的模型仪表板。
