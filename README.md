@@ -69,6 +69,7 @@
 ### ChatGPT 插件
 - [chatgpt-retrieval-plugin](https://github.com/openai/chatgpt-retrieval-plugin) - OpenAI 开源的资料托管的插件，构建私有聊天场景。
 - [ChatGPT-Plugins-Collection](https://github.com/logankilpatrick/ChatGPT-Plugins-Collection) - 非官方 ChatGPT 多种编程语言的插件示例。
+- [chatgpt-plugin-ts](https://github.com/transitive-bullshit/chatgpt-plugin-ts) - 在 JS/TS 中开始构建 ChatGPT 插件所需的一切。
 
 
 ### 其它
