@@ -79,5 +79,6 @@
 - [ChatGPT](https://github.com/acheong08/ChatGPT) - ChatGPT的逆向工程API。可扩展用于 Chatbot 等。
 - [window.ai](https://windowai.io/) - 在网页上使用您自己的 AI 模型。
 
+<br>
 
-OP: 有什么好的想法或者建议，欢迎在评论区留言，我会及时更新的。
+OP: 有什么好的想法或者建议，欢迎提交议题。
