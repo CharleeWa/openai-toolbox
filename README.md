@@ -42,6 +42,7 @@
 - [chatbot-ui](https://github.com/mckaywrigley/chatbot-ui) - 一个开源的ChatGPT用户界面。
 - [openai-pr-reviewer](https://github.com/fluxninja/openai-pr-reviewer) - 一个基于 ChatGPT 的 GitHub PR Reviewer。
 - [Feishu-OpenAI](https://github.com/ConnectAI-E/Feishu-OpenAI) - 飞书 ×（GPT-3.5 + DALL·E + Whisper）= 飞一般的工作体验。
+- [chatgpt-web](https://github.com/Chanzhaoyu/chatgpt-web) - 用 Express 和 Vue3 搭建的 ChatGPT 演示网页。
 
 ### 提示词工程
 
