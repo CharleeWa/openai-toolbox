@@ -41,6 +41,7 @@
 - [TypingMind](https://www.typingmind.com/) - 更好的 ChatGPT 用户界面, 支持网络搜索和实时数据。
 - [chatbot-ui](https://github.com/mckaywrigley/chatbot-ui) - 一个开源的ChatGPT用户界面。
 - [openai-pr-reviewer](https://github.com/fluxninja/openai-pr-reviewer) - 一个基于 ChatGPT 的 GitHub PR Reviewer。
+- [Feishu-OpenAI](https://github.com/ConnectAI-E/Feishu-OpenAI) - 飞书 ×（GPT-3.5 + DALL·E + Whisper）= 飞一般的工作体验。
 
 ### 提示词工程
 
