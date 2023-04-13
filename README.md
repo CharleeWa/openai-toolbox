@@ -81,7 +81,7 @@
 - [ChatGPT](https://github.com/acheong08/ChatGPT) - ChatGPT的逆向工程API。可扩展用于 Chatbot 等。
 - [window.ai](https://windowai.io/) - 在网页上使用您自己的 AI 模型。
 - [FreeOpenAI](https://freeopenai.xyz/) - 这里有些免费的OpenAI Key, 大家可测试使用。
-
+- [gravatar](https://en.gravatar.com/) - 一个全球通用头像服务，可以在ChatGPT网站上使用。
 <br>
 
 OP: 有什么好的想法或者建议，欢迎提交议题。
