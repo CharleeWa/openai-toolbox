@@ -78,6 +78,7 @@
 - [Auto-GPT](https://github.com/Torantulino/Auto-GPT) - 一个实验性的基于GPT-4驱动的应用程序，可能是世界上第一个AGI。
 - [ChatGPT](https://github.com/acheong08/ChatGPT) - ChatGPT的逆向工程API。可扩展用于 Chatbot 等。
 - [window.ai](https://windowai.io/) - 在网页上使用您自己的 AI 模型。
+- [FreeOpenAI](https://freeopenai.xyz/) - 这里有些免费的OpenAI Key, 大家可测试使用。
 
 <br>
 
