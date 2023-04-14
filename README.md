@@ -68,6 +68,7 @@
 - [Bot-Studio](https://github.com/Privoce/Bot-Studio) - OpenAI 的模型调试工具，带有聊天 UI 的模型仪表板。
 - [text2vec](https://github.com/shibing624/text2vec) - 文本向量表征工具，把文本转化为向量矩阵，实现相似检索，开箱即用。
 - [gpt4all](https://github.com/nomic-ai/gpt4all) - 一个由开源聊天机器人组成的生态系统，接受大量干净的助手数据的训练，包括代码、故事和对话。
+- [DeepSpeed](https://github.com/microsoft/DeepSpeed) - 一键式RLHF训练，让你的类ChatGPT千亿大模型提速省钱15倍。
 
 
 ### ChatGPT 插件
