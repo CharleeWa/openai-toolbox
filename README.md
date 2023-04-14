@@ -43,6 +43,7 @@
 - [openai-pr-reviewer](https://github.com/fluxninja/openai-pr-reviewer) - 一个基于 ChatGPT 的 GitHub PR Reviewer。
 - [Feishu-OpenAI](https://github.com/ConnectAI-E/Feishu-OpenAI) - 飞书 ×（GPT-3.5 + DALL·E + Whisper）= 飞一般的工作体验。
 - [chatgpt-web](https://github.com/Chanzhaoyu/chatgpt-web) - 用 Express 和 Vue3 搭建的 ChatGPT 演示网页。
+- [wolverine](https://github.com/biobootloader/wolverine) - GPT4 驱动的项目，展示了如何让 AI 来持续的运行脚本。
 
 ### 提示词工程
 
