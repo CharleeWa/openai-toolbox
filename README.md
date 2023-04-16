@@ -78,6 +78,10 @@
 - [ChatGPT-Plugins-Collection](https://github.com/logankilpatrick/ChatGPT-Plugins-Collection) - 非官方 ChatGPT 多种编程语言的插件示例。
 - [chatgpt-plugin-ts](https://github.com/transitive-bullshit/chatgpt-plugin-ts) - 在 JS/TS 中开始构建 ChatGPT 插件所需的一切。
 
+### 未归类
+- [AgentGPT](https://agentgpt.reworkd.ai/) - 在浏览器中组装、配置和部署自主AI代理。
+- [cognosys.ai](https://www.cognosys.ai/) - 触手可及的 AI 代理。
+note: 以上项目未经过分类，欢迎大家补充项目信息，提供分类。
 
 ### 其它
 - [chatgpt-backup](https://github.com/abacaj/chatgpt-backup) - ChatGPT 的备份工具，可以备份聊天记录。
