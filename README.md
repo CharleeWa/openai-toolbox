@@ -21,32 +21,34 @@
 - [usage](https://platform.openai.com/account/usage) - 个人账户 API 用量统计。
 - [openai-cookbook](https://github.com/openai/openai-cookbook) - 使用 OpenAI API 的示例和指南。
 
-### GPT系列 - 工具&产品
-
+### GPT系列 - 面向开发者
 - [cursor](https://www.cursor.so/) - 专为使用 AI 编程而构建的编辑器，帮助编写、编辑和讨论您的代码。
-- [openai-translator](https://github.com/yetone/openai-translator) - 基于 ChatGPT API 的划词翻译浏览器插件和跨平台桌面端应用。
 - [gpt-commit](https://github.com/zurawiki/gptcommit) - 一个可以帮助你生成Commit Message的工具。
 - [ChatGPT-CodeReview](https://github.com/anc95/ChatGPT-CodeReview) - 由 ChatGPT 提供支持的代码审查机器人。
+- [shell_gpt](https://github.com/TheR1D/shell_gpt) - 由 ChatGPT 提供支持的命令行生产力工具，将帮助您更快、更高效地完成任务。
+- [gptcli](https://www.gptcli.com/) - 多功能 ChatGPT 命令行工具，内置 Commit、Command、Translate，构建自己的 AI 命令行工具。
+- [ai-code-translator](https://github.com/feseeker/ai-code-translator) - 使用 AI 将代码从一种语言翻译成另一种语言。
+- [ai-code-doctor](https://github.com/CharleeWa/ai-code-doctor) - 让AI成为你的代码医生，快速解决错误信息。
+- [ChatGPT-Next-Web](https://github.com/Yidadaa/ChatGPT-Next-Web) - 一键拥有你自己的 ChatGPT 网页服务，拥有精美的界面。
+- [openai-pr-reviewer](https://github.com/fluxninja/openai-pr-reviewer) - 一个基于 ChatGPT 的 GitHub PR Reviewer。
+- [wolverine](https://github.com/biobootloader/wolverine) - GPT4 驱动的项目，展示了如何让 AI 来持续的运行脚本。
+- [chatbot-ui](https://github.com/mckaywrigley/chatbot-ui) - 一个开源的ChatGPT用户界面。
+- [Feishu-OpenAI](https://github.com/ConnectAI-E/Feishu-OpenAI) - 飞书 ×（GPT-3.5 + DALL·E + Whisper）= 飞一般的工作体验。
+- [chatgpt-web](https://github.com/Chanzhaoyu/chatgpt-web) - 用 Express 和 Vue3 搭建的 ChatGPT 演示网页。
+
+### GPT系列 - 产品应用
+- [openai-translator](https://github.com/yetone/openai-translator) - 基于 ChatGPT API 的划词翻译浏览器插件和跨平台桌面端应用。
 - [CopilotHub](https://app.copilothub.co/) - 基于 ChatGPT 创建个人的知识库平台。
 - [ChatPDF](https://www.chatpdf.com/) - 一个学习神器，上传PDF文件后，可以对它提问任何关于这份PDF的问题。
 - [ChatPaper](https://github.com/kaixindelele/ChatPaper) - 利用chatgpt进行论文总结+润色+审稿+审稿回复。
 - [ChatDoc](https://chatdoc.com/) - 基于 ChatGPT 的文件阅读助手，可以 从 PDF 中快速提取、定位和汇总信息。
 - [PandaGPT](https://www.pandagpt.io/) - 另一个工具，上传PDF文件后，可以对它提问任何关于这份PDF的问题。
-- [shell_gpt](https://github.com/TheR1D/shell_gpt) - 由 ChatGPT 提供支持的命令行生产力工具，将帮助您更快、更高效地完成任务。
-- [gptcli](https://www.gptcli.com/) - 多功能 ChatGPT 命令行工具，内置 Commit、Command、Translate，构建自己的 AI 命令行工具。
-- [ai-code-translator](https://github.com/feseeker/ai-code-translator) - 使用 AI 将代码从一种语言翻译成另一种语言。
-- [ai-code-doctor](https://github.com/CharleeWa/ai-code-doctor) - 让AI成为你的代码医生，快速解决错误信息。
 - [MacGPT](https://www.macgpt.com/) - ChatGPT 桌面客户端，支持API key 和 Web UI 两种模式随意切换。
-- [ChatGPT-Next-Web](https://github.com/Yidadaa/ChatGPT-Next-Web) - 一键拥有你自己的 ChatGPT 网页服务，拥有精美的界面。
 - [TypingMind](https://www.typingmind.com/) - 更好的 ChatGPT 用户界面, 支持网络搜索和实时数据。
-- [chatbot-ui](https://github.com/mckaywrigley/chatbot-ui) - 一个开源的ChatGPT用户界面。
-- [openai-pr-reviewer](https://github.com/fluxninja/openai-pr-reviewer) - 一个基于 ChatGPT 的 GitHub PR Reviewer。
-- [Feishu-OpenAI](https://github.com/ConnectAI-E/Feishu-OpenAI) - 飞书 ×（GPT-3.5 + DALL·E + Whisper）= 飞一般的工作体验。
-- [chatgpt-web](https://github.com/Chanzhaoyu/chatgpt-web) - 用 Express 和 Vue3 搭建的 ChatGPT 演示网页。
-- [wolverine](https://github.com/biobootloader/wolverine) - GPT4 驱动的项目，展示了如何让 AI 来持续的运行脚本。
+- [chatwebpage](https://chatwebpage.com/) - 与任何网页聊天，提问关于网页的任何问题。
+- [chatbase](https://www.chatbase.co/) - 为您的网站定制 ChatGPT，让您的网站更加智能。
 
 ### 提示词工程
-
 - [prompthero](https://prompthero.com/) - Prompts 网站，适用于 ChatGPT、Midjourney、Stable Diffusion。
 - [awesome-chatgpt-prompts](https://prompts.chat/) - 用于 ChatGPT 模型的提示示例, 获得更好的交流体验。
 - [awesome-chatgpt-prompts-zh](https://chatguide.plexpt.com/) - 用于 ChatGPT 模型的提示示例中文指南。
@@ -78,7 +80,6 @@
 
 
 ### 其它
-
 - [chatgpt-backup](https://github.com/abacaj/chatgpt-backup) - ChatGPT 的备份工具，可以备份聊天记录。
 - [Auto-GPT](https://github.com/Torantulino/Auto-GPT) - 一个实验性的基于GPT-4驱动的应用程序，可能是世界上第一个AGI。
 - [ChatGPT](https://github.com/acheong08/ChatGPT) - ChatGPT的逆向工程API。可扩展用于 Chatbot 等。
