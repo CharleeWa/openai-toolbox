@@ -47,6 +47,8 @@
 - [TypingMind](https://www.typingmind.com/) - 更好的 ChatGPT 用户界面, 支持网络搜索和实时数据。
 - [chatwebpage](https://chatwebpage.com/) - 与任何网页聊天，提问关于网页的任何问题。
 - [chatbase](https://www.chatbase.co/) - 为您的网站定制 ChatGPT，让您的网站更加智能。
+- [WebscrapeAi](https://webscrapeai.com/) - Scrape websites with no-code.
+- [60sec.site](https://60sec.site/) - Generate beautiful landing pages in 60 seconds with ai.
 
 ### 提示词工程
 - [prompthero](https://prompthero.com/) - Prompts 网站，适用于 ChatGPT、Midjourney、Stable Diffusion。
