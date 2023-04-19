@@ -1,19 +1,22 @@
 
-<h1 align="center">openai-toolbox</h1>
+<img src="static/logo.png" align="right" />
 
-<p align="center"> 📦️ 一个收集各种 OpenAI 工具和资源的仓库，包括开源工具、库、模型、数据集等。帮助开发者更方便地使用 OpenAI 的技术和服务。 </p>
+# openai-toolbox [![Awesome](https://cdn.jsdelivr.net/gh/sindresorhus/awesome@d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome#readme)
 
-<br>
+📦️ 一个收集各种 OpenAI 工具和资源的仓库，包括开源工具、库、模型、数据集等。帮助开发者更方便地使用 OpenAI 的技术和服务。
 
-### OpenAI 官方链接
+## OpenAI 官方链接
 
-- [overview](https://platform.openai.com/overview) - OpenAI 开发者预览页。
-- [tokenizer](https://platform.openai.com/tokenizer) - GPT 系列模型使用的标记文本分词器。
-- [pricing](https://openai.com/pricing) - OpenAI 所有模型收费价格预览。
-- [usage](https://platform.openai.com/account/usage) - 个人账户 API 用量统计。
-- [openai-cookbook](https://github.com/openai/openai-cookbook) - 使用 OpenAI API 的示例和指南。
+| 名称 | 描述 |
+| --- | --- |
+| [overview](https://platform.openai.com/overview) | OpenAI 开发者预览页 |
+| [tokenizer](https://platform.openai.com/tokenizer) | GPT 系列模型使用的标记文本分词器 |
+| [pricing](https://openai.com/pricing) | OpenAI 所有模型收费价格预览 |
+| [usage](https://platform.openai.com/account/usage) | 个人账户 API 用量统计 |
+| [openai-cookbook](https://github.com/openai/openai-cookbook) | 使用 OpenAI API 的示例 |
 
-### GPT系列 - 面向开发者
+
+## GPT系列 - 面向开发者
 - [cursor](https://www.cursor.so/) - 专为使用 AI 编程而构建的编辑器，帮助编写、编辑和讨论您的代码。
 - [gpt-commit](https://github.com/zurawiki/gptcommit) - 一个可以帮助你生成Commit Message的工具。
 - [ChatGPT-CodeReview](https://github.com/anc95/ChatGPT-CodeReview) - 由 ChatGPT 提供支持的代码审查机器人。
@@ -29,7 +32,7 @@
 - [chatgpt-web](https://github.com/Chanzhaoyu/chatgpt-web) - 用 Express 和 Vue3 搭建的 ChatGPT 演示网页。
 - [ai-shell](https://github.com/BuilderIO/ai-shell) - 将自然语言转换为 shell 命令的 CLI。
 
-### GPT系列 - 产品应用
+## GPT系列 - 产品应用
 - [openai-translator](https://github.com/yetone/openai-translator) - 基于 ChatGPT API 的划词翻译浏览器插件和跨平台桌面端应用。
 - [CopilotHub](https://app.copilothub.co/) - 基于 ChatGPT 创建个人的知识库平台。
 - [ChatPDF](https://www.chatpdf.com/) - 一个学习神器，上传PDF文件后，可以对它提问任何关于这份PDF的问题。
@@ -43,7 +46,7 @@
 - [WebscrapeAi](https://webscrapeai.com/) - Scrape websites with no-code.
 - [60sec.site](https://60sec.site/) - Generate beautiful landing pages in 60 seconds with ai.
 
-### 提示词工程
+## 提示词工程
 - [prompthero](https://prompthero.com/) - Prompts 网站，适用于 ChatGPT、Midjourney、Stable Diffusion。
 - [awesome-chatgpt-prompts](https://prompts.chat/) - 用于 ChatGPT 模型的提示示例, 获得更好的交流体验。
 - [awesome-chatgpt-prompts-zh](https://chatguide.plexpt.com/) - 用于 ChatGPT 模型的提示示例中文指南。
@@ -53,7 +56,7 @@
 - [Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) - 提示词工程指南，帮助行业相关人员了解提示词工程。
 - [LearnPrompting](https://learnprompting.org/) - 免费的提示工程课程，学习如何同AI交流，并得到你要的结果。
 
-### AI 绘图
+## AI 绘图
 - [Scribble Diffusion](https://scribblediffusion.com/) - 使用 AI 将粗略的草图变成精致的图像。
 - [DALL·E 2](https://labs.openai.com/) - OpenAI 官方 DALL·E 2模型，可以根据自然语言的描述创建逼真的图像和艺术作品。
 - [MochiDiffusion](https://github.com/godly-devotion/MochiDiffusion) - 在 Mac 上本地运行Stable Diffusion。
@@ -61,24 +64,24 @@
 - [Stable Diffusion web UI](https://github.com/AUTOMATIC1111/stable-diffusion-webui) - Stable Diffusion Web 界面。
 - [MidJourney](https://www.midjourney.com/) - 一款搭载在discord上的AI绘画聊天机器人。
 
-### 模型训练
+## 模型训练
 - [Bot-Studio](https://github.com/Privoce/Bot-Studio) - OpenAI 的模型调试工具，带有聊天 UI 的模型仪表板。
 - [text2vec](https://github.com/shibing624/text2vec) - 文本向量表征工具，把文本转化为向量矩阵，实现相似检索，开箱即用。
 - [gpt4all](https://github.com/nomic-ai/gpt4all) - 一个由开源聊天机器人组成的生态系统，接受大量干净的助手数据的训练，包括代码、故事和对话。
 - [DeepSpeed](https://github.com/microsoft/DeepSpeed) - 一键式RLHF训练，让你的类ChatGPT千亿大模型提速省钱15倍。
 
 
-### ChatGPT 插件
+## ChatGPT 插件
 - [chatgpt-retrieval-plugin](https://github.com/openai/chatgpt-retrieval-plugin) - OpenAI 开源的资料托管的插件，构建私有聊天场景。
 - [ChatGPT-Plugins-Collection](https://github.com/logankilpatrick/ChatGPT-Plugins-Collection) - 非官方 ChatGPT 多种编程语言的插件示例。
 - [chatgpt-plugin-ts](https://github.com/transitive-bullshit/chatgpt-plugin-ts) - 在 JS/TS 中开始构建 ChatGPT 插件所需的一切。
 
-### 未归类
+## 未归类
 - [AgentGPT](https://agentgpt.reworkd.ai/) - 在浏览器中组装、配置和部署自主AI代理。
 - [cognosys.ai](https://www.cognosys.ai/) - 触手可及的 AI 代理。
 note: 以上项目未经过分类，欢迎大家补充项目信息，提供分类。
 
-### 其它
+## 其它
 - [chatgpt-backup](https://github.com/abacaj/chatgpt-backup) - ChatGPT 的备份工具，可以备份聊天记录。
 - [Auto-GPT](https://github.com/Torantulino/Auto-GPT) - 一个实验性的基于GPT-4驱动的应用程序，可能是世界上第一个AGI。
 - [ChatGPT](https://github.com/acheong08/ChatGPT) - ChatGPT的逆向工程API。可扩展用于 Chatbot 等。
