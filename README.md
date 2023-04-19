@@ -1,17 +1,9 @@
 
-## openai-toolbox
+<h1 align="center">openai-toolbox</h1>
 
-📦️ 一个收集各种 OpenAI 工具和资源的仓库，包括开源工具、库、模型、数据集等。帮助开发者更方便地使用 OpenAI 的技术和服务。
+<p align="center"> 📦️ 一个收集各种 OpenAI 工具和资源的仓库，包括开源工具、库、模型、数据集等。帮助开发者更方便地使用 OpenAI 的技术和服务。 </p>
 
 <br>
-
-## 目录
-
-<img src="https://user-images.githubusercontent.com/11247099/112722104-819b8a80-8f42-11eb-82f5-dfc2dd5d8a77.png" height="32" />
-
-使用左上角的 “目录” 菜单来浏览列表。
-<br><br>
-
 
 ### OpenAI 官方链接
 
@@ -35,6 +27,7 @@
 - [chatbot-ui](https://github.com/mckaywrigley/chatbot-ui) - 一个开源的ChatGPT用户界面。
 - [Feishu-OpenAI](https://github.com/ConnectAI-E/Feishu-OpenAI) - 飞书 ×（GPT-3.5 + DALL·E + Whisper）= 飞一般的工作体验。
 - [chatgpt-web](https://github.com/Chanzhaoyu/chatgpt-web) - 用 Express 和 Vue3 搭建的 ChatGPT 演示网页。
+- [ai-shell](https://github.com/BuilderIO/ai-shell) - 将自然语言转换为 shell 命令的 CLI。
 
 ### GPT系列 - 产品应用
 - [openai-translator](https://github.com/yetone/openai-translator) - 基于 ChatGPT API 的划词翻译浏览器插件和跨平台桌面端应用。
