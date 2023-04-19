@@ -3,9 +3,10 @@
 
 # openai-toolbox [![Awesome](https://cdn.jsdelivr.net/gh/sindresorhus/awesome@d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome#readme)
 
-<p>📦️ 一个收集各种 OpenAI 工具和资源的仓库，包括开源工具、库、模型、数据集等。帮助开发者更方便地使用 OpenAI 的技术和服务。</p>
+📦️ 一个收集各种 OpenAI 工具和资源的仓库，帮助开发者更方便地使用 OpenAI 的技术和服务。
+<br>
 
-## OpenAI 官方链接
+### OpenAI 官方链接
 
 | 名称 | 描述 |
 | --- | --- |
@@ -16,7 +17,7 @@
 | [OpenAI-Cookbook](https://github.com/openai/openai-cookbook) | 使用 OpenAI API 的示例 |
 
 
-## GPT系列 - 面向开发者
+### GPT系列 - 面向开发者
 
 | 名称 | 描述 |
 | --- | --- |
@@ -24,7 +25,7 @@
 | [GPT-Commit](https://github.com/zurawiki/gptcommit) | 一个可以帮助你生成Commit Message的工具 |
 | [ChatGPT-CodeReview](https://github.com/anc95/ChatGPT-CodeReview) | 由 ChatGPT 提供支持的代码审查机器人 |
 | [Shell_GPT](https://github.com/TheR1D/shell_gpt) | 由 ChatGPT 提供支持的命令行生产力工具，将帮助您更快、更高效地完成任务 |
-| [GPT-Cli](https://www.gptcli.com/) | 多功能 ChatGPT 命令行工具，内置 Commit、Command、Translate，构建自己的 AI 命令行工具 |
+| [GPT-Cli](https://www.gptcli.com/) | 多功能 ChatGPT 命令行工具，内置 Commit、Command、Translate。 |
 | [AI-Code-Translator](https://github.com/feseeker/ai-code-translator) | 使用 AI 将代码从一种语言翻译成另一种语言 |
 | [AI-Code-Doctor](https://github.com/CharleeWa/ai-code-doctor) | 让AI成为你的代码医生，快速解决错误信息 |
 | [ChatGPT-Next-Web](https://github.com/Yidadaa/ChatGPT-Next-Web) | 一键拥有你自己的 ChatGPT 网页服务，拥有精美的界面 |
@@ -36,7 +37,7 @@
 | [AI-Shell](https://github.com/BuilderIO/ai-shell) | 将自然语言转换为 shell 命令的 CLI |
 
 
-## GPT系列 - 产品应用
+### GPT系列 - 产品应用
 
 | 名称 | 描述 |
 | --- | --- |
@@ -54,7 +55,7 @@
 | [60sec.site](https://60sec.site/) | 用ai在60秒内生成漂亮的着陆页 |
 
 
-## 提示词工程
+### 提示词工程
 
 | 名称 | 描述 |
 | --- | --- |
@@ -68,7 +69,7 @@
 | [LearnPrompting](https://learnprompting.org/) | 免费的提示工程课程，学习如何同AI交流，并得到你要的结果 |
 
 
-## AI 绘图
+### AI 绘图
 
 | 名称 | 描述 |
 | --- | --- |
@@ -80,7 +81,7 @@
 | [MidJourney](https://www.midjourney.com/) | 一款搭载在discord上的AI绘画聊天机器人 |
 
 
-## 模型训练
+### 模型训练
 
 | 名称 | 描述 |
 | --- | --- |
@@ -90,7 +91,7 @@
 | [DeepSpeed](https://github.com/microsoft/DeepSpeed) | 一键式RLHF训练，让你的类ChatGPT千亿大模型提速省钱15倍 |
 
 
-## ChatGPT 插件
+### ChatGPT 插件
 
 | 项目 | 描述 |
 | --- | --- |
@@ -99,7 +100,7 @@
 | [ChatGPT-Plugin-TS](https://github.com/transitive-bullshit/chatgpt-plugin-ts) | 在 JS/TS 中开始构建 ChatGPT 插件所需的一切 |
 
 
-## 其它
+### 其它
 
 | 名称 | 描述 |
 | --- | --- |
