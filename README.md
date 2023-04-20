@@ -1,20 +1,20 @@
 
-<img src="static/logo.png" width="130px" align="right" />
+<img src="static/openai.png" width="130px" align="right" />
 
 # openai-toolbox [![Awesome](https://cdn.jsdelivr.net/gh/sindresorhus/awesome@d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome#readme)
 
-📦️ 一个收集各种 OpenAI 工具和资源的仓库，帮助开发者更方便地使用 OpenAI 的技术和服务。
-<br>
+一个收集各种 OpenAI 工具和资源的仓库，帮助开发者更方便地使用 OpenAI 的技术和服务。
+<br><br>
 
 ### OpenAI 官方链接
 
 | 名称 | 描述 |
 | --- | --- |
 | [Overview](https://platform.openai.com/overview) | OpenAI 开发者预览页 |
-| [Tokenizer](https://platform.openai.com/tokenizer) | GPT 系列模型使用的标记文本分词器 |
-| [Pricing](https://openai.com/pricing) | OpenAI 所有模型收费价格预览 |
 | [Usage](https://platform.openai.com/account/usage) | 个人账户 API 用量统计 |
-| [OpenAI-Cookbook](https://github.com/openai/openai-cookbook) | 使用 OpenAI API 的示例 |
+| [Cookbook](https://github.com/openai/openai-cookbook) | 使用 OpenAI API 的示例 |
+| [Pricing](https://openai.com/pricing) | OpenAI 所有模型收费价格预览 |
+| [Tokenizer](https://platform.openai.com/tokenizer) | GPT 系列模型使用的标记文本分词器 |
 
 
 ### GPT系列 - 面向开发者
@@ -25,7 +25,7 @@
 | [GPT-Commit](https://github.com/zurawiki/gptcommit) | 一个可以帮助你生成Commit Message的工具 |
 | [ChatGPT-CodeReview](https://github.com/anc95/ChatGPT-CodeReview) | 由 ChatGPT 提供支持的代码审查机器人 |
 | [Shell_GPT](https://github.com/TheR1D/shell_gpt) | 由 ChatGPT 提供支持的命令行生产力工具，将帮助您更快、更高效地完成任务 |
-| [GPT-Cli](https://www.gptcli.com/) | 多功能 ChatGPT 命令行工具，内置 Commit、Command、Translate。 |
+| [GPT-Cli](https://www.gptcli.com/) | 多功能 ChatGPT 命令行工具，内置 Commit、Command、Translate |
 | [AI-Code-Translator](https://github.com/feseeker/ai-code-translator) | 使用 AI 将代码从一种语言翻译成另一种语言 |
 | [AI-Code-Doctor](https://github.com/CharleeWa/ai-code-doctor) | 让AI成为你的代码医生，快速解决错误信息 |
 | [ChatGPT-Next-Web](https://github.com/Yidadaa/ChatGPT-Next-Web) | 一键拥有你自己的 ChatGPT 网页服务，拥有精美的界面 |
@@ -53,6 +53,7 @@
 | [ChatBase](https://www.chatbase.co/) | 为您的网站定制 ChatGPT，让您的网站更加智能 |
 | [WebscrapeAi](https://webscrapeai.com/) | 无代码抓取网站 |
 | [60sec.site](https://60sec.site/) | 用ai在60秒内生成漂亮的着陆页 |
+| [Polyglot](https://github.com/liou666/polyglot) | 桌面端AI语言练习应用 |
 
 
 ### 提示词工程
@@ -93,9 +94,9 @@
 
 ### ChatGPT 插件
 
-| 项目 | 描述 |
+| 名称 | 描述 |
 | --- | --- |
-| [chatgpt-retrieval-plugin](https://github.com/openai/chatgpt-retrieval-plugin) | OpenAI 开源的资料托管的插件，构建私有聊天场景 |
+| [ChatGPT-Retrieval-Plugin](https://github.com/openai/chatgpt-retrieval-plugin) | OpenAI 开源的资料托管的插件，构建私有聊天场景 |
 | [ChatGPT-Plugins-Collection](https://github.com/logankilpatrick/ChatGPT-Plugins-Collection) | 非官方 ChatGPT 多种编程语言的插件示例 |
 | [ChatGPT-Plugin-TS](https://github.com/transitive-bullshit/chatgpt-plugin-ts) | 在 JS/TS 中开始构建 ChatGPT 插件所需的一切 |
 
