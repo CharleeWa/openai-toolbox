@@ -113,6 +113,7 @@
 | [Gravatar](https://en.gravatar.com/) | 一个全球通用头像服务，可以在ChatGPT网站上使用 |
 | [AgentGPT](https://agentgpt.reworkd.ai/) | 在浏览器中组装、配置和部署自主AI代理 |
 | [Cognosys.AI](https://www.cognosys.ai/) | 触手可及的 AI 代理 |
+| [KeepChatGPT](https://github.com/xcanwin/KeepChatGPT) | 使用ChatGPT更顺畅，解决ChatGPT网络错误 |
 
 <br>
 
