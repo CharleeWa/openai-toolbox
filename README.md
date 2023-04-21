@@ -35,6 +35,7 @@
 | [Feishu-OpenAI](https://github.com/ConnectAI-E/Feishu-OpenAI) | 飞书 ×（GPT-3.5 + DALL·E + Whisper）= 飞一般的工作体验 |
 | [Chatgpt-Web](https://github.com/Chanzhaoyu/chatgpt-web) | 用 Express 和 Vue3 搭建的 ChatGPT 演示网页 |
 | [AI-Shell](https://github.com/BuilderIO/ai-shell) | 将自然语言转换为 shell 命令的 CLI |
+| [RustChat](https://github.com/ZhangHanDong/rustchat) | 用 ChatGPT 打造最强 Rust 辅助学习“魔法”系统 |
 
 
 ### GPT系列 - 产品应用
