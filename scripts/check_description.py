@@ -5,7 +5,7 @@ def line_length_without_links(line):
     line_without_links = md_link_pattern.sub(r'\1', line)
     return len(line_without_links.rstrip())
 
-def check_line_length(file_path, max_length=80, skip_lines=15):
+def check_line_length(file_path, max_length=80, skip_lines=8):
     with open(file_path, 'r', encoding='utf-8') as file:
         lines = file.readlines()
         for index, line in enumerate(lines):
