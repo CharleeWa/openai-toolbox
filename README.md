@@ -69,6 +69,7 @@
 | [Learning-Prompt](https://learningprompt.wiki/) | 免费 Prompt Engineering 教程 |
 | [Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) | 提示词工程指南，帮助行业相关人员了解提示词工程 |
 | [LearnPrompting](https://learnprompting.org/) | 免费的提示工程课程，学习如何同AI交流，并得到你要的结果 |
+| [SnackPrompt](https://snackprompt.com/) | Prompt界的Github, 可以创建分享自己的Prompt, 按周、月看热门Prompt |
 
 
 ### AI 绘图
