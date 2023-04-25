@@ -55,6 +55,7 @@
 | [WebscrapeAi](https://webscrapeai.com/) | 无代码抓取网站 |
 | [60sec.site](https://60sec.site/) | 用ai在60秒内生成漂亮的着陆页 |
 | [Polyglot](https://github.com/liou666/polyglot) | 桌面端AI语言练习应用 |
+| [GodMode](https://godmode.space/) | 一款类AutoGPT的Web UI实现，需要自带Key |
 
 
 ### 提示词工程
