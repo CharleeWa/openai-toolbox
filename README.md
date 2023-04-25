@@ -58,6 +58,14 @@
 | [GodMode](https://godmode.space/) | 一款类AutoGPT的Web UI实现，需要自带Key |
 
 
+### GPT系列 - 行业应用
+
+| 名称 | 描述 |
+| --- | --- |
+| [Law-CN-AI](https://github.com/lvwzhen/law-cn-ai) | AI 法律助手，项目开源，可自行部署 |
+| [FinChat](https://finchat.io/) | 金融领域的 ChatGPT，非常方便看上市公司的财务分析 |
+
+
 ### 提示词工程
 
 | 名称 | 描述 |
