@@ -36,6 +36,7 @@
 | [Chatgpt-Web](https://github.com/Chanzhaoyu/chatgpt-web) | 用 Express 和 Vue3 搭建的 ChatGPT 演示网页 |
 | [AI-Shell](https://github.com/BuilderIO/ai-shell) | 将自然语言转换为 shell 命令的 CLI |
 | [RustChat](https://github.com/ZhangHanDong/rustchat) | 用 ChatGPT 打造最强 Rust 辅助学习“魔法”系统 |
+| [AutoPR](https://github.com/irgolic/AutoPR) | 一个 Github Action，可以自动编写拉取请求以响应问题 |
 
 
 ### GPT系列 - 产品应用
