@@ -82,7 +82,7 @@
 | [LearnPrompting](https://learnprompting.org/) | 免费的提示工程课程，学习如何同AI交流，并得到你要的结果 |
 | [SnackPrompt](https://snackprompt.com/) | Prompt界的Github, 可以创建分享自己的Prompt, 按周、月看热门Prompt |
 | [Prompt-Engineering-Note](https://islinxu.github.io/prompt-engineering-note/) | 面向开发者的ChatGPT提问工程学习笔记 |
-
+| [ChatGPT-Prompt-Engineering](https://github.com/GitHubDaily/ChatGPT-Prompt-Engineering-for-Developers-in-Chinese) | 吴恩达与 OpenAI 联手推出的一门面向开发者的技术教程，含中英双语字幕 |
 
 ### AI 绘图
 
