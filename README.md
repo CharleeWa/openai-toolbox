@@ -128,6 +128,7 @@
 | [AgentGPT](https://agentgpt.reworkd.ai/) | 在浏览器中组装、配置和部署自主AI代理 |
 | [Cognosys.AI](https://www.cognosys.ai/) | 触手可及的 AI 代理 |
 | [KeepChatGPT](https://github.com/xcanwin/KeepChatGPT) | 使用ChatGPT更顺畅，解决ChatGPT网络错误 |
+| [GPTZero](https://gptzero.me/) | 检测内容是否由 ChatGPT 生成 |
 
 <br>
 
