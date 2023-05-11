@@ -85,6 +85,7 @@
 | [Prompt-Engineering-Note](https://islinxu.github.io/prompt-engineering-note/) | 面向开发者的ChatGPT提问工程学习笔记 |
 | [ChatGPT-Prompt-Engineering](https://github.com/GitHubDaily/ChatGPT-Prompt-Engineering-for-Developers-in-Chinese) | 吴恩达与 OpenAI 联手推出的一门面向开发者的技术教程，含中英双语字幕 |
 
+
 ### AI 绘图
 
 | 名称 | 描述 |
@@ -131,6 +132,7 @@
 | [KeepChatGPT](https://github.com/xcanwin/KeepChatGPT) | 使用ChatGPT更顺畅，解决ChatGPT网络错误 |
 | [GPTZero](https://gptzero.me/) | 检测内容是否由 ChatGPT 生成 |
 | [Talk-to-ChatGPT](https://github.com/C-Nedelcu/talk-to-chatgpt) | 一款 Chrome 和 Edge 的扩展，使用您的语音与ChatGPT 进行对话，并通过语音听取回答 |
+| [PromptBoost](https://promptboost.streamlit.app/) | 使用 ChatGPT 将一个简单的 Prompt 优化为一个更好的 Prompt |
 
 <br>
 
