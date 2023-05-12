@@ -38,6 +38,7 @@
 | [RustChat](https://github.com/ZhangHanDong/rustchat) | 用 ChatGPT 打造最强 Rust 辅助学习“魔法”系统 |
 | [AutoPR](https://github.com/irgolic/AutoPR) | 一个 Github Action，可以自动编写拉取请求以响应问题 |
 | [ChatChat](https://github.com/okisdev/ChatChat) | 解锁你的下一级 AI 对话体验。支持 OpenAI、微软 Azure、Claude、Cohere等多个 API |
+| [PrivateGPT](https://github.com/imartinez/privateGPT) | 使用 GPT 的强大功能与您的文档进行私密交互，100% 私密，无数据泄露 |
 
 
 ### GPT系列 - 产品应用
