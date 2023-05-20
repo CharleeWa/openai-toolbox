@@ -40,6 +40,7 @@
 | [ChatChat](https://github.com/okisdev/ChatChat) | 解锁你的下一级 AI 对话体验。支持 OpenAI、微软 Azure、Claude、Cohere等多个 API |
 | [PrivateGPT](https://github.com/imartinez/privateGPT) | 使用 GPT 的强大功能与您的文档进行私密交互，100% 私密，无数据泄露 |
 | [LangChain](https://github.com/hwchase17/langchain) | 通过可组合性使用 LLM 构建应用程序 |
+| [ChatGPT-WeChat](https://github.com/zhayujie/chatgpt-on-wechat) | 使用 ChatGPT 搭建微信聊天机器人 |
 
 
 ### GPT系列 - 产品应用
