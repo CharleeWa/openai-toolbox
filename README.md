@@ -140,6 +140,7 @@
 | [Talk-to-ChatGPT](https://github.com/C-Nedelcu/talk-to-chatgpt) | 一款 Chrome 和 Edge 的扩展，使用您的语音与ChatGPT 进行对话，并通过语音听取回答 |
 | [PromptBoost](https://promptboost.streamlit.app/) | 使用 ChatGPT 将一个简单的 Prompt 优化为一个更好的 Prompt |
 | [ChatALL](https://github.com/sunner/ChatALL) | 同时与所有 AI 机器人聊天，找到最佳答案 |
+| [ShareGPT](https://github.com/domeccleston/sharegpt) | 一个开源的 Chrome 扩展程序，用于分享您与 ChatGPT 的对话 |
 
 <br>
 
