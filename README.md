@@ -42,6 +42,7 @@
 | [LangChain](https://github.com/hwchase17/langchain) | 通过可组合性使用 LLM 构建应用程序 |
 | [ChatGPT-WeChat](https://github.com/zhayujie/chatgpt-on-wechat) | 使用 ChatGPT 搭建微信聊天机器人 |
 | [LangChain-ChatGLM](https://github.com/imClumsyPanda/langchain-ChatGLM) | 基于本地知识库的 ChatGLM 问答 |
+| [GitHub-Copilot](https://github.com/features/copilot) | GitHub 官方推出的基于 GPT 模型的代码助手 |
 
 
 ### GPT系列 - 产品应用
