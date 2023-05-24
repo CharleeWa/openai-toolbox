@@ -90,6 +90,7 @@
 | [SnackPrompt](https://snackprompt.com/) | Prompt界的Github, 可以创建分享自己的Prompt, 按周、月看热门Prompt |
 | [Prompt-Engineering-Note](https://islinxu.github.io/prompt-engineering-note/) | 面向开发者的ChatGPT提问工程学习笔记 |
 | [ChatGPT-Prompt-Engineering](https://github.com/GitHubDaily/ChatGPT-Prompt-Engineering-for-Developers-in-Chinese) | 吴恩达与 OpenAI 联手推出的一门面向开发者的技术教程，含中英双语字幕 |
+| [Prompt-Engineering](https://github.com/brexhq/prompt-engineering) | 使用大型语言模型（如 OpenAI 的 GPT-4）的提示和技巧 |
 
 
 ### AI 绘图
