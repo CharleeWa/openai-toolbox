@@ -43,6 +43,7 @@
 | [ChatGPT-WeChat](https://github.com/zhayujie/chatgpt-on-wechat) | 使用 ChatGPT 搭建微信聊天机器人 |
 | [LangChain-ChatGLM](https://github.com/imClumsyPanda/langchain-ChatGLM) | 基于本地知识库的 ChatGLM 问答 |
 | [GitHub-Copilot](https://github.com/features/copilot) | GitHub 官方推出的基于 GPT 模型的代码助手 |
+| [Pandora](https://github.com/pengzhile/pandora) | 潘多拉 (Pandora)，一个让你呼吸顺畅的 ChatGPT |
 
 
 ### GPT系列 - 产品应用
