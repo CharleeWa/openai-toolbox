@@ -44,6 +44,7 @@
 | [LangChain-ChatGLM](https://github.com/imClumsyPanda/langchain-ChatGLM) | 基于本地知识库的 ChatGLM 问答 |
 | [GitHub-Copilot](https://github.com/features/copilot) | GitHub 官方推出的基于 GPT 模型的代码助手 |
 | [Pandora](https://github.com/pengzhile/pandora) | 潘多拉 (Pandora)，实现了网页版 ChatGPT 的主要操作，绕过 Cloudflare，速度喜人 |
+| [ChatBox](https://github.com/Bin-Huang/chatbox) | 开源的 ChatGPT API (OpenAI API) 桌面客户端，Prompt 的调试与管理工具 |
 
 
 ### GPT系列 - 产品应用
