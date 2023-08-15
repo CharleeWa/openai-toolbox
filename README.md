@@ -46,7 +46,7 @@
 | [Pandora](https://github.com/pengzhile/pandora) | 潘多拉 (Pandora)，实现了网页版 ChatGPT 的主要操作，绕过 Cloudflare，速度喜人 |
 | [ChatBox](https://github.com/Bin-Huang/chatbox) | 开源的 ChatGPT API (OpenAI API) 桌面客户端，Prompt 的调试与管理工具 |
 | [GPTEngineer](https://github.com/AntonOsika/gpt-engineer) | 一个提示词生成代码库，几分钟内完成一个编码项目 |
-| [SweepAI](https://github.com/sweepai/sweep) | 一款 Github App, 由 AI 驱动的初级开发人员，可以将 bug 报告和功能请求转换为代码更改 |
+| [SweepAI](https://github.com/sweepai/sweep) | 一款 Github App，可以将 bug 报告和功能请求转换为代码更改 |
 
 
 ### GPT系列 - 产品应用
