@@ -129,7 +129,7 @@
 | [ChatGPT-Plugin-TS](https://github.com/transitive-bullshit/chatgpt-plugin-ts) | 在 JS/TS 中开始构建 ChatGPT 插件所需的一切 |
 
 
-### 其它
+### ChatGPT 生态
 
 | 名称 | 描述 |
 | --- | --- |
@@ -147,6 +147,7 @@
 | [PromptBoost](https://promptboost.streamlit.app/) | 使用 ChatGPT 将一个简单的 Prompt 优化为一个更好的 Prompt |
 | [ChatALL](https://github.com/sunner/ChatALL) | 同时与所有 AI 机器人聊天，找到最佳答案 |
 | [ShareGPT](https://github.com/domeccleston/sharegpt) | 一个开源的 Chrome 扩展程序，用于分享您与 ChatGPT 的对话 |
+| [Fabric](https://github.com/danielmiessler/fabric) | Fabric 是一个开源框架，用于使用 AI 增强人类的能力 |
 
 <br>
 
